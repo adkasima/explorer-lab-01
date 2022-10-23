@@ -42,7 +42,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## ❤ Deploy
 
-O deploy da aplicação foi feito na plataforma [VERCEL](https:://www.vercel.com/). Para visualizá-lo, clique [AQUI](https://explorer-lab-01-chi-ivory.vercel.app).
+O deploy da aplicação foi feito na plataforma [VERCEL](https://www.vercel.com/). Para visualizá-lo, clique [AQUI](https://explorer-lab-01-chi-ivory.vercel.app).
 
 ## :memo: Licença
 
